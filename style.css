@@ -1,0 +1,393 @@
+section {
+    color:blue;
+    font-family: "KMU80", sans-serif ;
+
+}
+
+article {
+    color:rgba(0, 0, 255, 0.5);
+    font-family: "KMU80", sans-serif ;
+    text-align: right;
+    font-size: 70%;
+}
+
+@font-face {
+    font-family: "KMU80";
+    src: url("./KMU80HaeongSans.otf") format("opentype");
+    font-style: normal;
+}    
+
+
+.top {
+    background-color:#bcff36ff;
+    width: 23vw;
+    height: 35px; 
+    position: absolute;
+    top:0vh;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.A1 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 22.5vw;
+    height: 30px; 
+    position: absolute;
+    top:45px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A2 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 20vw;
+    height: 19px; 
+    position: absolute;
+    top:81px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A3 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 22.5vw;
+    height: 26px; 
+    position: absolute;
+    top:106px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A4 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 22.5vw;
+    height: 19px; 
+    position: absolute;
+    top:137.5px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A5 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 20.8vw;
+    height: 17px; 
+    position: absolute;
+    top:161px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A6 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 22.5vw;
+    height: 26px; 
+    position: absolute;
+    top:184px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A7 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 19.1vw;
+    height: 15px; 
+    position: absolute;
+    top:218px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A8 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 17.8vw;
+    height: 14px; 
+    position: absolute;
+    top:239px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A9 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 16.8vw;
+    height: 14px; 
+    position: absolute;
+    top:258px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.A11 {
+    background-color:rgba(188, 255, 54, 0.5);
+    width: 17.4vw;
+    height: 8px; 
+    position: absolute;
+    top:279px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+
+}
+
+.A10 {
+        background-color:rgba(188, 255, 54, 0.5);
+    width: 20.7vw;
+    height: 18px; 
+    position: absolute;
+    top:295px;
+    right:76vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+
+
+
+.up {
+    background-color:#6defffff;
+    width: 23vw;
+    height: 35px; 
+    position: absolute;
+    top:0vh;
+    right:50.5vw;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.B1 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 22.5vw;
+    height: 19.5px; 
+    position: absolute;
+    top: 45px;
+    right:50.5vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.B2 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 0.5px; 
+    height: 85px;
+    position: absolute;
+    top: 70px;
+    right:59.9vw;
+    padding-right: 4px;
+    padding-top: 2px;
+}
+
+.B3 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 0.5px; 
+    height: 85px;
+    position: absolute;
+    top: 70px;
+    right:57.9vw;
+    padding-right: 8px;
+    padding-top: 2px;
+}
+
+.B4 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 0.5px; 
+    height: 85px;
+    position: absolute;
+    top: 70px;
+    right:53.5vw;
+    padding-right: 15px;
+    padding-top: 2px;
+}
+
+.B5 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 16.5vw;
+    height: 20px; 
+    position: absolute;
+    top: 160px;
+    right:50.5vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.B6 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 19.5vw;
+    height: 20px; 
+    position: absolute;
+    top: 185px;
+    right:50.5vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.B7 {
+    background-color:rgba(109, 238, 255, 0.50);
+    width: 21vw;
+    height: 20px; 
+    position: absolute;
+    top: 210px;
+    right:50.5vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+
+
+
+.down {
+    background-color:#f3ff43ff;
+    width: 23vw;
+    height: 35px; 
+    position: absolute;
+    top:0vh;
+    right:25.2vw;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.C1 {
+    background-color:rgba(242, 255, 67, 0.5);
+    width: 22.5vw;
+    height: 26px; 
+    position: absolute;
+    top: 45px;
+    right:25.2vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.C2 {
+    background-color:rgba(242, 255, 67, 0.5);
+    width: 0.5vw;
+    height: 85px; 
+    position: absolute;
+    top: 78px;
+    right:25.2vw;
+    padding-right: 6px;
+    padding-top: 2px;
+}
+
+.C3 {
+    background-color:rgba(242, 255, 67, 0.5);
+    width: 18.5vw;
+    height: 10px; 
+    position: absolute;
+    top: 170px;
+    right:25.2vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.C4 {
+    background-color:rgba(242, 255, 67, 0.5);
+    width: 20vw;
+    height: 28px; 
+    position: absolute;
+    top: 187px;
+    right:25.2vw;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+
+
+.bottom {
+    background-color:#ff8dffff;
+    width: 23vw;
+    height: 35px; 
+    position: absolute;
+    top:0vh;
+    right:0;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.D1 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 22.5vw;
+    height: 19px; 
+    position: absolute;
+    top: 45px;
+    right:0;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.D2 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 23px;
+    height: 28px; 
+    border-radius: 50%;
+    position: absolute;
+    top: 80px;
+    right:10vw;
+    padding-right: 5px;
+    padding-top: 2px;
+}
+
+.D3 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 1px;
+    height: 50px; 
+    position: absolute;
+    top: 110px;
+    right:10.8vw;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.D4 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 15px;
+    height: 21px; 
+    border-radius: 50%;
+    position: absolute;
+    top: 176px;
+    right:4.7vw;
+    padding-right: 5px;
+    padding-top: 2px;
+}
+
+.D5 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 2vw;
+    height: 50px; 
+    position: absolute;
+    top: 80px;
+    right:6.8vw;
+    padding-right: 7px;
+    padding-top: 2px;
+}
+
+.D6 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 1vw;
+    height: 100px; 
+    position: absolute;
+    top: 70px;
+    right:5vw;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.D7 {
+    background-color:rgba(255, 141, 255, 0.5);
+    width: 4vw;
+    height: 150px; 
+    position: absolute;
+    top: 70px;
+    right:0;
+    padding-right: 2px;
+    padding-top: 2px;
+}
